@@ -20,7 +20,7 @@ import datetime
 import re
 
 
-TEXT_RESULT_LENGTH = 42
+TEXT_RESULT_LENGTH = 142
 
 HEX_COLOR = r"[0-9a-fA-F]{6}\b"
 CPP_DIRECTIVES = "|".join(
